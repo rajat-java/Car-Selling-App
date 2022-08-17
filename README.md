@@ -13,4 +13,5 @@ I also attached the txt file which contains the query for creating the table in 
 
 # Screenshots
 
-![](Scrrenshots/Login.png)
+＜img src="(https://user-images.githubusercontent.com/111439226/185174953-030c6382-ad1b-40e0-8cec-d7fe8f5b126b.png)" width="500" height="300"＞
+
