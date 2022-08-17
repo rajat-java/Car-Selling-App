@@ -1,0 +1,8 @@
+CREATE TABLE `rajat`.`cars` (`id` INT(20) NOT NULL AUTO_INCREMENT ,
+ `mname` VARCHAR(255) NOT NULL , 
+`manufacturer` VARCHAR(255) NOT NULL ,
+ `price` INT(20) NOT NULL , 
+`age` INT(20) NOT NULL , 
+`ktavel` INT(20) NOT NULL , 
+`info` VARCHAR(500) NOT NULL , 
+PRIMARY KEY (`id`));
